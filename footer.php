@@ -23,6 +23,6 @@
 </div><!-- #page -->
 
 <?php wp_footer(); ?>
-
+<img src="https://insights.blogfoster.com/v1/3128.png" style="border:0;" alt="" />
 </body>
 </html>
